@@ -39,10 +39,10 @@ An interactive 2-page Job Market Analysis Dashboard built using Power BI to anal
 ## Dashboard Preview
 
 ### Page 1 — Job Market Analysis
-![Job Market Analysis Dashboard](Dashboard_Page-1.png)
+![Job Market Analysis Dashboard](Dashboard Page-1.png)
 
 ### Page 2 — Job Roles & Skills Analysis
-![Job Roles & Skills Analysis](Dashboard_Page-2.png)
+![Job Roles & Skills Analysis](Dashboard Page-2.png)
 
 ## Presented By
 **N Lokesh** 
